@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Manifest baseLocation="downloads.dell.com" dateTime="2021-05-06T13:57:10.5364038Z" releaseId="d046f565-576c-4edb-8759-8848e66baf8c" name="CatalogoTest" description="Catalogo de prueba con modelos 5500,5510, Precision 5550" >
+<InventoryComponent inventoryCollectorType="COMPREHENSIVE" schemaVersion="3.0" releaseID="1KR2H" releaseDate="April 29, 2021" vendorVersion="9.6.0.0" dellVersion="A00" osCode="WIN" path="FOLDER07278107M/1/InvColPC_9.6.0.0.exe" size="19977160" xmlns="openmanage/cm/dm">
+  <Cryptography>
+    <Hash algorithm="MD5">dc153aae574fa9d4096c54dce56fcd5a</Hash>
+    <Hash algorithm="SHA256">519ece5bf6a4ad155d38902738a27f5b85261ef6fff267b12f5da7ef7bff6454</Hash>
+    <Hash algorithm="SHA1">ad24e1beaf0f6f37d676001ccc4b49a2dd7e1c3e</Hash>
+  </Cryptography>
+</InventoryComponent>
+<InventoryComponent inventoryCollectorType="COMPACT" schemaVersion="3.0" releaseID="4RK0M" releaseDate="April 29, 2021" vendorVersion="9.6.0.0" dellVersion="A00" osCode="WIN" path="FOLDER07277990M/1/InvColPC_9.6.0.0.exe" size="7090848" xmlns="openmanage/cm/dm">
+  <Cryptography>
+    <Hash algorithm="MD5">761d1e6c9229cc5221ac3dce6c0d4d6f</Hash>
+    <Hash algorithm="SHA256">5853e3697882bc161ac2ff778517b90ae9c22f686cf50bdf6955820843c54ff1</Hash>
+    <Hash algorithm="SHA1">dd7ad7f3cfe0214edb5d722abb86d7bb760bf668</Hash>
+  </Cryptography>
+</InventoryComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="FXNNP" releaseDate="December 17, 2020" vendorVersion="21.70.0.6" dellVersion="A18" packageType="LW64" path="FOLDER06084438M/2/Intel-AX200-AX201-9260-9560-9462-Wi-Fi-UWD-Driver_FXNNP_WIN_21.70.0.6_A18_01.EXE" packageID="FXNNP" dateTime="2019-11-28T10:28:58+05:30" size="56240808" identifier="0e875338-054f-48da-bfca-5ac47fe20736" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Intel AX200/AX201/9260/9560/9462 Wi-Fi UWD Driver]]></Display>
+  </Name>
+  <ComponentType value="DRVR">
+    <Display lang="en"><![CDATA[Driver]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the driver for the Intel AX200, AX201, 9260, 9560, and 9462 wireless cards. Wireless drivers help your operating system to communicate with wireless devices such as wireless cards and network interface controllers. This update addresses the Intel Security Advisory INTEL-SA-00338. A security advisory is a statement when a security vulnerability impacts a product, and a remedy is available for the vulnerability.]]></Display>
+  </Description>
+  <Category value="NI">
+    <Display lang="en"><![CDATA[Network]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="103005" embedded="false">
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="4010" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <Display><![CDATA[Intel 9260 9560 9462 8265 8260 7265 3165 WiFi Driver]]></Display>
+    </Device>
+    <Device componentID="103305" embedded="false">
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="4234" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="4234" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="4010" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="4018" subVendorID="8086" />
+      <PCIInfo deviceID="2723" vendorID="8086" subDeviceID="0080" subVendorID="8086" />
+      <PCIInfo deviceID="2723" vendorID="8086" subDeviceID="4080" subVendorID="8086" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="4234" subVendorID="8086" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="4234" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="4234" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="4034" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="02A4" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="4234" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <Display><![CDATA[Intel WIFI 9462]]></Display>
+    </Device>
+    <Device componentID="107095" embedded="false">
+      <Display><![CDATA[Intel (R)Wireless-AC 9560]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="38" prefix="PRE">
+      <Display lang="en"><![CDATA[Precision]]></Display>
+      <Model systemID="097E">
+        <Display lang="en"><![CDATA[5550]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WTCLD" osVendor="Microsoft" osArch="x64" majorVersion="0" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10S 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=FXNNP">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="2">
+    <Display lang="en"><![CDATA[Urgent]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">fbb5ee0ebf55196fc04f6bbdd231e305</Hash>
+    <Hash algorithm="SHA256">b9745c3cefa489f0b883ade1b8704334e41a434717b59cf4b013df075cf4080b</Hash>
+    <Hash algorithm="SHA1">e4d38e448e61b2aa0a869968299a2e77a4db0d18</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="FC5J4" releaseDate="November 09, 2020" vendorVersion="2036.15.0.1835" dellVersion="A08" packageType="LWXP" path="FOLDER06593551M/10/Intel-Management-Engine-Components-Installer_FC5J4_WIN_2036.15.0.1835_A08_04.EXE" packageID="FC5J4" dateTime="2020-06-20T19:12:04+05:30" size="138648144" identifier="23e457f9-acec-4a1d-b607-d6c2b5eb2599" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Intel Management Engine Components Installer]]></Display>
+  </Name>
+  <ComponentType value="DRVR">
+    <Display lang="en"><![CDATA[Driver]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the driver for the Intel Management Engine Components Installer. The update installs Intel Management Engine Interface, Intel Capability Licensing Service Client, Serial Over LAN Driver, Intel Wireless Management, Local Manageability Service, Local Manageability Service, Intel Converged Security and Manageability Engine (CSME) Windows Management Instrumentation (WMI) provider, and Intel Dynamic Application Loader Host Interface. This update also addresses the Intel Technical Advisory INTEL-TA-00391.]]></Display>
+  </Description>
+  <Category value="CS">
+    <Display lang="en"><![CDATA[Chipset]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="100950" embedded="false">
+      <PCIInfo deviceID="0000" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="02E0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="02E0" vendorID="8086" subDeviceID="0962" subVendorID="1028" />
+      <PCIInfo deviceID="02E0" vendorID="8086" subDeviceID="09BA" subVendorID="1028" />
+      <PCIInfo deviceID="02E3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="02FC" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="06E0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="06E0" vendorID="8086" subDeviceID="098D" subVendorID="1028" />
+      <PCIInfo deviceID="06E0" vendorID="8086" subDeviceID="09A4" subVendorID="1028" />
+      <PCIInfo deviceID="06E0" vendorID="8086" subDeviceID="09A5" subVendorID="1028" />
+      <PCIInfo deviceID="06E0" vendorID="8086" subDeviceID="09A6" subVendorID="1028" />
+      <PCIInfo deviceID="06E0" vendorID="8086" subDeviceID="09A7" subVendorID="1028" />
+      <PCIInfo deviceID="06E0" vendorID="8086" subDeviceID="09BF" subVendorID="1028" />
+      <PCIInfo deviceID="06E0" vendorID="8086" subDeviceID="09F6" subVendorID="1028" />
+      <PCIInfo deviceID="06E3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="06E3" vendorID="8086" subDeviceID="09A4" subVendorID="1028" />
+      <PCIInfo deviceID="06E3" vendorID="8086" subDeviceID="09A5" subVendorID="1028" />
+      <PCIInfo deviceID="06E3" vendorID="8086" subDeviceID="09A6" subVendorID="1028" />
+      <PCIInfo deviceID="06E3" vendorID="8086" subDeviceID="09A7" subVendorID="1028" />
+      <PCIInfo deviceID="0A9A" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="0F18" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="18D3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="1A9A" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="1BE3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="2298" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="271B" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="271C" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="2720" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="2723" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="319A" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="34E0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="34E3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="38E0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="3DE0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="3DE3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="40C0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="43E0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="43E3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="4DE0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="5A9A" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="98E0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="98E5" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9CBA" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9CBD" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9D3A" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9D3D" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9DE0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9DE3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A0E0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A0E3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A13A" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A13D" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A1BA" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A1BD" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A23A" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A23D" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A2BA" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A2BD" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A360" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A360" vendorID="8086" subDeviceID="0871" subVendorID="1028" />
+      <PCIInfo deviceID="A360" vendorID="8086" subDeviceID="0872" subVendorID="1028" />
+      <PCIInfo deviceID="A363" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A3BA" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A3BA" vendorID="8086" subDeviceID="09A8" subVendorID="1028" />
+      <PCIInfo deviceID="A3BA" vendorID="8086" subDeviceID="09A9" subVendorID="1028" />
+      <PCIInfo deviceID="A3BD" vendorID="8086" subDeviceID="" subVendorID="" />
+      <Display><![CDATA[Intel Management Engine Components Installer]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="08B9">
+        <Display lang="en"><![CDATA[5500]]></Display>
+      </Model>
+      <Model systemID="09A1">
+        <Display lang="en"><![CDATA[5510]]></Display>
+      </Model>
+    </Brand>
+    <Brand key="38" prefix="PRE">
+      <Display lang="en"><![CDATA[Precision]]></Display>
+      <Model systemID="097E">
+        <Display lang="en"><![CDATA[5550]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="PE1064" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOT01" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WTCLD" osVendor="Microsoft" osArch="x64" majorVersion="0" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10S 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10TM" osVendor="Microsoft" osArch="x64" majorVersion="0" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows Teams Rooms]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WEL16" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=FC5J4">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="2">
+    <Display lang="en"><![CDATA[Urgent]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">99e78d9fc95b532e565d0ed60a2e2af4</Hash>
+    <Hash algorithm="SHA256">790581b79d9b238884b2a1edf4249e1b2d45e3098241b8ca2dbadc697394543a</Hash>
+    <Hash algorithm="SHA1">9e1872d262f1b43a2b86e5456693358b26dfa503</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="C29DC" releaseDate="April 06, 2020" vendorVersion="21.80.0.3" dellVersion="A06" packageType="LWXP" path="FOLDER06145901M/5/Intel-AX200-AX201-9560-9260-8265-3165-Bluetooth-UWD_C29DC_WIN_21.80.0.3_A06_04.EXE" packageID="C29DC" dateTime="2020-02-17T11:18:39+05:30" size="50959568" identifier="2ec2f469-570a-4de8-a6a4-dd387d3add41" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Intel AX200/AX201/9560/9260/8265/3165 Bluetooth UWD Driver]]></Display>
+  </Name>
+  <ComponentType value="DRVR">
+    <Display lang="en"><![CDATA[Driver]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the driver for the Intel AX200, AX201, 9560, 9260, 8265 and 3165 Bluetooth cards. Bluetooth driver is the software that helps your operating system to communicate with Bluetooth devices.]]></Display>
+  </Description>
+  <Category value="NI">
+    <Display lang="en"><![CDATA[Network]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="103306" embedded="false">
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0025</PnPProductID>
+      </PnPInfo>
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0026</PnPProductID>
+      </PnPInfo>
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0029</PnPProductID>
+      </PnPInfo>
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0A2A</PnPProductID>
+      </PnPInfo>
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0A2B</PnPProductID>
+      </PnPInfo>
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0AAA</PnPProductID>
+      </PnPInfo>
+      <Display><![CDATA[Intel(R) Wireless-AC 9560 Bluetooth]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="08B9">
+        <Display lang="en"><![CDATA[5500]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOT01" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10TM" osVendor="Microsoft" osArch="x64" majorVersion="0" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows Teams Rooms]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WEL16" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=C29DC">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="2">
+    <Display lang="en"><![CDATA[Urgent]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">dcf1743d53d9ccc1fc947db3fd433324</Hash>
+    <Hash algorithm="SHA256">c41cb48c20d273c0628b33dde85ab0620c1d729c40b7f58a1b91347c650ff681</Hash>
+    <Hash algorithm="SHA1">f671570b2035556738bed8742a2354ebc8727e2b</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="PPY61" releaseDate="November 25, 2019" vendorVersion="21.50.1.1" dellVersion="A06" packageType="LWXP" path="FOLDER05905411M/6/Intel-AX200-AX201-9560-9260-8265-3165-WiFi-UWD-Driver_PPY61_WIN_21.50.1.1_A06_04.EXE" packageID="PPY61" dateTime="2019-10-02T14:02:50+05:30" size="57717984" identifier="301319d3-406e-4448-bd10-e2f3ba0db66e" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Intel AX200/AX201/9560/9260/8265/3165 WiFi UWD Driver]]></Display>
+  </Name>
+  <ComponentType value="DRVR">
+    <Display lang="en"><![CDATA[Driver]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the driver for the Intel AX200, AX201, 9260, 9560, 8265 and 3165 wireless cards. Wireless driver is the software that helps your operating system to communicate with wireless devices such as wireless cards and network adapters. The update addresses the Intel Security Advisories INTEL-SA-0-00288 and INTEL-SA-0-00287. A security advisory is a statement when a product is impacted by a security vulnerability and a remedy is available.]]></Display>
+  </Description>
+  <Category value="NI">
+    <Display lang="en"><![CDATA[Network]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="103305" embedded="false">
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="0050" subVendorID="8086" />
+      <PCIInfo deviceID="2723" vendorID="8086" subDeviceID="4080" subVendorID="8086" />
+      <PCIInfo deviceID="3165" vendorID="8086" subDeviceID="4410" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="FFFF" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <Display><![CDATA[Intel(R) Wireless-AC 9560]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="08B9">
+        <Display lang="en"><![CDATA[5500]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOT01" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WTCLD" osVendor="Microsoft" osArch="x64" majorVersion="0" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10S 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WEL16" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=PPY61">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="2">
+    <Display lang="en"><![CDATA[Urgent]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">4839edf1460286974b8c8ae2d8fea88d</Hash>
+    <Hash algorithm="SHA256">8b02934350877ed8f100d9f4ec4b1e36ebc5b2492ca2885da71bfafa512232c5</Hash>
+    <Hash algorithm="SHA1">d26d62a23b8de73f786614fd74a58ed016e79bbf</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="7MJJY" releaseDate="February 13, 2020" vendorVersion="21.70.0.3" dellVersion="A05" packageType="LWXP" path="FOLDER06053504M/6/Intel-AX200-AX201-9560-9260-3165-Bluetooth-UWD-Driver_7MJJY_WIN_21.70.0.3_A05_05.EXE" packageID="7MJJY" dateTime="2019-11-22T14:58:19+05:30" size="50650024" identifier="3686531a-98b9-4c95-afe1-30ba7b10df31" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Intel AX200/AX201/9560/9260/3165 Bluetooth UWD Driver]]></Display>
+  </Name>
+  <ComponentType value="DRVR">
+    <Display lang="en"><![CDATA[Driver]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the driver for the Intel AX200, AX201, 9560, 9260, and 3165 Bluetooth cards. Bluetooth driver is the software that helps your operating system to communicate with Bluetooth devices.]]></Display>
+  </Description>
+  <Category value="NI">
+    <Display lang="en"><![CDATA[Network]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="103306" embedded="false">
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0025</PnPProductID>
+      </PnPInfo>
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0026</PnPProductID>
+      </PnPInfo>
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0029</PnPProductID>
+      </PnPInfo>
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0A2A</PnPProductID>
+      </PnPInfo>
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0AAA</PnPProductID>
+      </PnPInfo>
+      <Display><![CDATA[Intel(R) Wireless-AC 9560 Bluetooth]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09A1">
+        <Display lang="en"><![CDATA[5510]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOT01" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WTCLD" osVendor="Microsoft" osArch="x64" majorVersion="0" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10S 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WEL16" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=7MJJY">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="2">
+    <Display lang="en"><![CDATA[Urgent]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">406f8d36f688eb6feb7f71229c18d846</Hash>
+    <Hash algorithm="SHA256">ce1cfae42be7e9ce7d4644e0fb78582621292ea24a9020914c515022f3854398</Hash>
+    <Hash algorithm="SHA1">cf3bbb90129675c11d7821120443f05e2aefed9b</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="6W3K6" releaseDate="November 07, 2019" vendorVersion="1938.12.0.1317" dellVersion="A04" packageType="LWXP" path="FOLDER05840902M/4/Intel-Management-Engine-Components-Installer_6W3K6_WIN_1938.12.0.1317_A04_02.EXE" packageID="6W3K6" dateTime="2019-06-16T17:54:00+05:30" size="174826112" identifier="3840d7c5-e9b0-489e-82e0-5686e55e89d0" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Intel Management Engine Components Installer]]></Display>
+  </Name>
+  <ComponentType value="DRVR">
+    <Display lang="en"><![CDATA[Driver]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the driver for the Intel Management Engine Components Installer. It installs Intel Management Engine Interface, Serial Over LAN driver, Local Manageability Service, Intel Converged Security and Manageability Engine (CSME), Windows Management Instrumentation (WMI) provider, Intel Management  Security Status application, and Intel Capability Licensing Service Client. It must be installed besides the chipset driver. This update addresses the Intel security advisory INTEL-SA-00241. A security advisory is a statement when a product is impacted by a security vulnerability and a remedy is available.]]></Display>
+  </Description>
+  <Category value="CS">
+    <Display lang="en"><![CDATA[Chipset]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="100950" embedded="false">
+      <PCIInfo deviceID="0000" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="0A9A" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="0F18" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="1A9A" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="2298" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="271B" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="271C" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="2720" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="2723" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="319A" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="34E0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="38E0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="3DE0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="40C0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="5A9A" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="98E0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="98E5" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9CBA" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9CBD" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9D3A" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9D3D" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9DE0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9DE3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A13A" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A13D" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A1BA" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A1BD" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A23A" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A23D" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A2BA" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A2BD" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A360" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A363" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="" subVendorID="" />
+      <Display><![CDATA[Intel Management Engine Components]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="08B9">
+        <Display lang="en"><![CDATA[5500]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="PE1064" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WR2S1" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows Server 2008 R2]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W14TS" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows Server 2016]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WS12S" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="2" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows Server 2012]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WEL16" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W12RS" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="2" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows Server 2012 R2]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=6W3K6">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="2">
+    <Display lang="en"><![CDATA[Urgent]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">d7ba32b7f3ae89010134fa2aa26ef539</Hash>
+    <Hash algorithm="SHA256">1fbf42ae66601f50e1ee685ac177a09d074f925f579a808fe6f11e0075ab1acf</Hash>
+    <Hash algorithm="SHA1">5edf36e759f311082792d35814dc0206582568b1</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="TBT59" releaseDate="November 02, 2020" vendorVersion="1.41.648.5" dellVersion="A05" packageType="LW64" path="FOLDER05686981M/3/Intel-Thunderbolt-Controller-Driver_TBT59_WIN64_1.41.648.5_A05_02.EXE" packageID="TBT59" dateTime="2019-05-30T12:11:58+05:30" size="15720720" identifier="681f4f90-8ddf-4fef-93ee-614a29e21f1e" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Intel Thunderbolt Controller Driver]]></Display>
+  </Name>
+  <ComponentType value="DRVR">
+    <Display lang="en"><![CDATA[Driver]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the driver for the Intel Thunderbolt Controller. Thunderbolt driver allows you to connect devices such as storage devices, monitors, and other peripherals to the system, by using the Thunderbolt port.]]></Display>
+  </Description>
+  <Category value="CS">
+    <Display lang="en"><![CDATA[Chipset]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="103992" embedded="false">
+      <PCIInfo deviceID="02AA" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="1566" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="1568" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="156A" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="156C" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="1575" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="1577" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="157D" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="15BF" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="15D2" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="15D2" vendorID="8086" subDeviceID="0962" subVendorID="1028" />
+      <PCIInfo deviceID="15D9" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="15D9" vendorID="8086" subDeviceID="08A2" subVendorID="1028" />
+      <PCIInfo deviceID="15D9" vendorID="8086" subDeviceID="08EA" subVendorID="1028" />
+      <PCIInfo deviceID="15D9" vendorID="8086" subDeviceID="08EB" subVendorID="1028" />
+      <PCIInfo deviceID="15D9" vendorID="8086" subDeviceID="08EC" subVendorID="1028" />
+      <PCIInfo deviceID="15D9" vendorID="8086" subDeviceID="08ED" subVendorID="1028" />
+      <PCIInfo deviceID="15D9" vendorID="8086" subDeviceID="08EE" subVendorID="1028" />
+      <PCIInfo deviceID="15D9" vendorID="8086" subDeviceID="08EF" subVendorID="1028" />
+      <PCIInfo deviceID="15D9" vendorID="8086" subDeviceID="0905" subVendorID="1028" />
+      <PCIInfo deviceID="15D9" vendorID="8086" subDeviceID="0922" subVendorID="1028" />
+      <PCIInfo deviceID="15D9" vendorID="8086" subDeviceID="0923" subVendorID="1028" />
+      <PCIInfo deviceID="15D9" vendorID="8086" subDeviceID="0924" subVendorID="1028" />
+      <PCIInfo deviceID="15DC" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="15DD" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="15DE" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="15E8" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="15E8" vendorID="8086" subDeviceID="09CE" subVendorID="1028" />
+      <PCIInfo deviceID="15E8" vendorID="8086" subDeviceID="09D1" subVendorID="1028" />
+      <PCIInfo deviceID="15EB" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="15EB" vendorID="8086" subDeviceID="0983" subVendorID="1028" />
+      <PCIInfo deviceID="15EB" vendorID="8086" subDeviceID="098F" subVendorID="1028" />
+      <PCIInfo deviceID="15EB" vendorID="8086" subDeviceID="0990" subVendorID="1028" />
+      <PCIInfo deviceID="15EB" vendorID="8086" subDeviceID="09C6" subVendorID="1028" />
+      <PCIInfo deviceID="463E" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="464E" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="465E" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="466D" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="467D" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="468D" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="8A0D" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="8A17" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="8AA0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="8AA3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="8AB0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="8AB3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9A1B" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9A1D" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9A1F" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9A21" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9D23" vendorID="8086" subDeviceID="" subVendorID="" />
+      <Display><![CDATA[Intel Thunderbolt Controller]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="08B9">
+        <Display lang="en"><![CDATA[5500]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOT01" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WEL16" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=TBT59">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="2">
+    <Display lang="en"><![CDATA[Urgent]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">65a7002830b1e3842381f89fb0eee822</Hash>
+    <Hash algorithm="SHA256">fa461d09f1ac7109797e956e23565c900e68a10373ea6f6132d646dd40535936</Hash>
+    <Hash algorithm="SHA1">948021079beb2ba19d65b90c3fbe0bedc2ae4e37</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="NGG38" releaseDate="February 13, 2020" vendorVersion="21.70.0.6" dellVersion="A07" packageType="LWXP" path="FOLDER06084572M/9/Intel-AX200-AX201-9560-9260-3165-Wi-Fi-UWD-Driver_NGG38_WIN_21.70.0.6_A07_08.EXE" packageID="NGG38" dateTime="2019-11-22T14:35:41+05:30" size="56245168" identifier="77c7ac09-ef8f-4e5d-9d1e-a458359360bf" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Intel AX200/AX201/9560/9260/3165 Wi-Fi UWD Driver]]></Display>
+  </Name>
+  <ComponentType value="DRVR">
+    <Display lang="en"><![CDATA[Driver]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the driver for the Intel AX200, AX201, 9260, 9560, and 3165 wireless cards. Wireless drivers help your operating system to communicate with wireless devices such as wireless cards and network interface controllers. This update addresses the Intel Security Advisory INTEL-SA-00338. A security advisory is a statement when a security vulnerability impacts a product, and a remedy is available for the vulnerability.]]></Display>
+  </Description>
+  <Category value="NI">
+    <Display lang="en"><![CDATA[Network]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="103305" embedded="false">
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="0050" subVendorID="8086" />
+      <PCIInfo deviceID="2723" vendorID="8086" subDeviceID="4080" subVendorID="8086" />
+      <PCIInfo deviceID="3165" vendorID="8086" subDeviceID="4410" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <Display><![CDATA[Intel(R) Wireless-AC 9560]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="08B9">
+        <Display lang="en"><![CDATA[5500]]></Display>
+      </Model>
+      <Model systemID="09A1">
+        <Display lang="en"><![CDATA[5510]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOT01" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WTCLD" osVendor="Microsoft" osArch="x64" majorVersion="0" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10S 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10TM" osVendor="Microsoft" osArch="x64" majorVersion="0" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows Teams Rooms]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WEL16" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=NGG38">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="2">
+    <Display lang="en"><![CDATA[Urgent]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">5acebcf63dc079508f23c8db50560115</Hash>
+    <Hash algorithm="SHA256">d3816465386555f498266d29e8e7b5b0f82aebcd409c2b738336191aadc1ac32</Hash>
+    <Hash algorithm="SHA1">bfb634ea0ebcc72c9bf4686a340c62e24a09e67d</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="4424H" releaseDate="September 03, 2019" vendorVersion="12.0.0.916" dellVersion="A24" packageType="LWXP" path="FOLDER05810293M/4/Qualcomm-QCA61x4A-QCA6174A-XR-QCA9377-WiFi-and-Bluetooth_4424H_WIN_12.0.0.916_A24_01.EXE" packageID="4424H" dateTime="2019-07-08T21:31:12+05:30" size="103154776" identifier="ccb8d14a-bd35-48d9-bd38-676a774f5490" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Qualcomm QCA61x4A/QCA6174A-XR/QCA9377 WiFi and Bluetooth Driver]]></Display>
+  </Name>
+  <ComponentType value="DRVR">
+    <Display lang="en"><![CDATA[Driver]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the driver for Qualcomm(R) QCA61x4A, QCA6174A-XR, and QCA9377 WiFi and Bluetooth cards. Wireless and Bluetooth drivers help your operating system to communicate with Wireless and Bluetooth devices.]]></Display>
+  </Description>
+  <Category value="NI">
+    <Display lang="en"><![CDATA[Network]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="103619" embedded="false">
+      <Display><![CDATA[Dell Wireless 1820 WiFi/Bluetooth]]></Display>
+    </Device>
+    <Device componentID="105256" embedded="false">
+      <Display><![CDATA[Qualcomm(R) QCA9377 Wi-Fi/Bluetooth Card]]></Display>
+    </Device>
+    <Device componentID="106841" embedded="false">
+      <Display><![CDATA[Qualcomm(R) QCA6174A XR Wi-Fi/Bluetooth Card]]></Display>
+    </Device>
+    <Device componentID="107250" embedded="false">
+      <Display><![CDATA[Qualcomm(R) QCA61x4A Wi-Fi/Bluetooth Card]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="08B9">
+        <Display lang="en"><![CDATA[5500]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOT01" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WTCLD" osVendor="Microsoft" osArch="x64" majorVersion="0" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10S 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WEL16" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=4424H">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="2">
+    <Display lang="en"><![CDATA[Urgent]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">2c1a0207cc2c3ad498c7ea62e7c0e99b</Hash>
+    <Hash algorithm="SHA256">e2f07fe80896c4b914f76b9bd179275f8ca1df52aeeaa4c99a304c5e95c9cd87</Hash>
+    <Hash algorithm="SHA1">3f2a5fc39db22595087b7c0f57ef73844d2dda57</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="42VMM" releaseDate="April 27, 2021" vendorVersion="22.40.0.7" dellVersion="A17" packageType="LWXP" path="FOLDER07179668M/4/Intel-AX210-AX201-AX200-9560-9260-8265-3165-Wi-Fi_42VMM_WIN_22.40.0.7_A17_03.EXE" packageID="42VMM" dateTime="2021-03-02T19:29:55+05:30" size="67736896" identifier="f4308f25-b61d-41d4-be86-9e14e2a3733b" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Intel AX210/AX201/AX200/9560/9260/8265/3165 Wi-Fi UWD Driver]]></Display>
+  </Name>
+  <ComponentType value="DRVR">
+    <Display lang="en"><![CDATA[Driver]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the driver for the Intel AX210, AX201, AX200, 9560, 9260, 8265, and 3165 wireless cards. Wireless drivers help your operating system to communicate with wireless devices such as wireless cards and network interface controllers.]]></Display>
+  </Description>
+  <Category value="NI">
+    <Display lang="en"><![CDATA[Network]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="103305" embedded="false">
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="2725" vendorID="8086" subDeviceID="4020" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="4034" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <Display><![CDATA[Intel(R) Wireless-AX 201 Wireless]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09A1">
+        <Display lang="en"><![CDATA[5510]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOT01" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WTCLD" osVendor="Microsoft" osArch="x64" majorVersion="0" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10S 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10TM" osVendor="Microsoft" osArch="x64" majorVersion="0" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows Teams Rooms]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WEL16" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=42VMM">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="2">
+    <Display lang="en"><![CDATA[Urgent]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">ff5d2e8cd9404fa5d6690d8a99d8447d</Hash>
+    <Hash algorithm="SHA256">4f1bd60949ec359c1a1e683d34ecc51cda8bf9267e700b2758d795c9099a374f</Hash>
+    <Hash algorithm="SHA1">383cca3f64b7c875aa515d159b9b2aa865d5fb1d</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="C6C99" releaseDate="March 13, 2020" vendorVersion="21.70.0.3" dellVersion="A17" packageType="LWXP" path="FOLDER06048956M/5/Intel-AX200-AX201-9260-9560-9462-8265-8260-7265-3165_C6C99_WIN_21.70.0.3_A17_04.EXE" packageID="C6C99" dateTime="2019-11-28T14:11:43+05:30" size="50651008" identifier="f8db8f4f-8bc1-4bb7-a817-cb0786810c1b" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Intel AX200/AX201/9260/9560/9462/8265/8260/7265/3165 Bluetooth UWD Driver]]></Display>
+  </Name>
+  <ComponentType value="DRVR">
+    <Display lang="en"><![CDATA[Driver]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the driver for Intel AX200, AX201, 9260, 9560, 9462, 8265, 8260, 7265, and 3165 Bluetooth cards. Bluetooth driver is the software that helps your operating system to communicate with Bluetooth devices.]]></Display>
+  </Description>
+  <Category value="NI">
+    <Display lang="en"><![CDATA[Network]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="103306" embedded="false">
+      <PCIInfo deviceID="0A2A" vendorID="8087" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="0A2B" vendorID="8087" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0025</PnPProductID>
+      </PnPInfo>
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0026</PnPProductID>
+      </PnPInfo>
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0029</PnPProductID>
+      </PnPInfo>
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0A2A</PnPProductID>
+      </PnPInfo>
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0A2B</PnPProductID>
+      </PnPInfo>
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0AAA</PnPProductID>
+      </PnPInfo>
+      <Display><![CDATA[Intel AX201/9560 and Killer Wireless AX1650 Bluetooth]]></Display>
+    </Device>
+    <Device componentID="107261" embedded="false">
+      <Display><![CDATA[INTEL 8265 Bluetooth driver]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="38" prefix="PRE">
+      <Display lang="en"><![CDATA[Precision]]></Display>
+      <Model systemID="097E">
+        <Display lang="en"><![CDATA[5550]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WTCLD" osVendor="Microsoft" osArch="x64" majorVersion="0" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10S 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=C6C99">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="2">
+    <Display lang="en"><![CDATA[Urgent]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">a70521514f49b3a8f676c23f413c20d3</Hash>
+    <Hash algorithm="SHA256">287ebf256834f57188b982e33600a3b5f27ab546912fc107f63c597f3ace5a10</Hash>
+    <Hash algorithm="SHA1">bd41187af0c717f4b264b8e60be9c1e78c3d7560</Hash>
+  </Cryptography>
+</SoftwareComponent>
+</Manifest>
