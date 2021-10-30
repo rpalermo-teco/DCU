@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Manifest baseLocation="downloads.dell.com" dateTime="2021-10-30T06:03:06.273152Z" releaseId="b1e972a3-e09c-4744-a58d-d0a5be77877a" name="Latitude 5511" description="" >
+<InventoryComponent inventoryCollectorType="COMPREHENSIVE" schemaVersion="3.0" releaseID="0N3DM" releaseDate="October 22, 2021" vendorVersion="10.2.0.1" dellVersion="A00" osCode="WIN" path="FOLDER07848116M/1/InvColPC_10.2.0.1.exe" size="23628368" xmlns="openmanage/cm/dm">
+    <Cryptography>
+      <Hash algorithm="MD5">564e85587bd86e2aaf23d19eccfd512a</Hash>
+      <Hash algorithm="SHA256">91c7202ab967fc5f0cf4fe8cdc5883de42bc025feffa4a2353430ad91c0600c9</Hash>
+      <Hash algorithm="SHA1">8f6fa82a2607df1f9d51e98020631d4b00a18be6</Hash>
+    </Cryptography>
+  </InventoryComponent>
+<InventoryComponent inventoryCollectorType="COMPACT" schemaVersion="3.0" releaseID="RMN09" releaseDate="October 22, 2021" vendorVersion="10.2.0.1" dellVersion="A00" osCode="WIN" path="FOLDER07848127M/1/InvColPC_10.2.0.1.exe" size="10741696" xmlns="openmanage/cm/dm">
+    <Cryptography>
+      <Hash algorithm="MD5">963f1ac58134ab2e30c25a584d736a86</Hash>
+      <Hash algorithm="SHA256">947176d63432ffc35cf2413d62d623737ac06ebccea0888c5e5da017e4d27fca</Hash>
+      <Hash algorithm="SHA1">c59294f2181b36276fa4697b3bd80f56d4464a37</Hash>
+    </Cryptography>
+  </InventoryComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="TBT60" releaseDate="November 02, 2020" vendorVersion="1.41.750.0" dellVersion="A06" packageType="LW64" path="FOLDER05915321M/1/Intel-Thunderbolt-Controller-Driver_TBT60_WIN64_1.41.750.0_A06.EXE" packageID="TBT60" dateTime="2019-08-15T08:38:30+05:30" size="12337768" identifier="93747023-b570-4124-a5bc-94de5e89581f" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Intel Thunderbolt Controller Driver]]></Display>
+  </Name>
+  <ComponentType value="DRVR">
+    <Display lang="en"><![CDATA[Driver]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the driver for the Intel Thunderbolt Controller. Thunderbolt driver allows you to connect devices such as storage devices, monitors, and other peripherals to the system, by using the Thunderbolt port.]]></Display>
+  </Description>
+  <Category value="CS">
+    <Display lang="en"><![CDATA[Chipset]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="103992" embedded="false">
+      <PCIInfo deviceID="1566" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="1568" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="156A" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="156C" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="1575" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="1577" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="157D" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="15BF" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="15D2" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="15D9" vendorID="8086" subDeviceID="" subVendorID="" />
+      <Display><![CDATA[Intel Thunderbolt Controller]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09C1">
+        <Display lang="en"><![CDATA[5511]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WEL16" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WTCLD" osVendor="Microsoft" osArch="x64" majorVersion="0" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10S 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOT01" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=TBT60">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="2">
+    <Display lang="en"><![CDATA[Urgent]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">390342fb2db0730d8a4178b734dfbcd4</Hash>
+    <Hash algorithm="SHA256">55be69399e3842709364da6c20990bb1ba425730d06daa21c01dfaa450c26406</Hash>
+    <Hash algorithm="SHA1">ee872cc1a933a74ec4b7fb751350566a92f68d15</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="42VMM" releaseDate="March 31, 2021" vendorVersion="22.40.0.7" dellVersion="A17" packageType="LWXP" path="FOLDER07179668M/5/Intel-AX210-AX201-AX200-9560-9260-8265-3165-Wi-Fi_42VMM_WIN_22.40.0.7_A17_04.EXE" packageID="42VMM" dateTime="2021-03-02T19:29:55+05:30" size="67737960" identifier="f4308f25-b61d-41d4-be86-9e14e2a3733b" baseBuildNumber="0" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Intel AX210/AX201/AX200/9560/9260/8265/3165 Wi-Fi UWD Driver]]></Display>
+  </Name>
+  <ComponentType value="DRVR">
+    <Display lang="en"><![CDATA[Driver]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the driver for the Intel AX210, AX201, AX200, 9560, 9260, 8265, and 3165 wireless cards. Wireless drivers help your operating system to communicate with wireless devices such as wireless cards and network interface controllers.]]></Display>
+  </Description>
+  <Category value="NI">
+    <Display lang="en"><![CDATA[Network]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="103305" embedded="false">
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="4034" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="0050" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="4010" subVendorID="8086" />
+      <PCIInfo deviceID="2723" vendorID="8086" subDeviceID="4080" subVendorID="8086" />
+      <PCIInfo deviceID="2725" vendorID="8086" subDeviceID="4020" subVendorID="8086" />
+      <PCIInfo deviceID="3165" vendorID="8086" subDeviceID="4410" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="4034" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="FFFF" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <Display><![CDATA[Intel(R) Wireless-AX 201 Wireless LAN]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedDCHDevices>
+    <Device componentID="103305" guid="8f78f043-0824-4883-809a-93561d06af0b" infType="base" componentType="DRVR" version="19.51.33.1">
+      <PCIInfo deviceID="095B" vendorID="8086" subDeviceID="9210" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="5190" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="5C10" subVendorID="8086" />
+      <PCIInfo deviceID="24FB" vendorID="8086" subDeviceID="2050" subVendorID="8086" />
+      <PCIInfo deviceID="095B" vendorID="8086" subDeviceID="5212" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="900A" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="5410" subVendorID="8086" />
+      <PCIInfo deviceID="3166" vendorID="8086" subDeviceID="4310" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="5510" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="5090" subVendorID="8086" />
+      <PCIInfo deviceID="095B" vendorID="8086" subDeviceID="520A" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="5100" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="9400" subVendorID="8086" />
+      <PCIInfo deviceID="3165" vendorID="8086" subDeviceID="4012" subVendorID="8086" />
+      <PCIInfo deviceID="3166" vendorID="8086" subDeviceID="4210" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="9410" subVendorID="8086" />
+      <PCIInfo deviceID="3165" vendorID="8086" subDeviceID="4110" subVendorID="8086" />
+      <PCIInfo deviceID="095B" vendorID="8086" subDeviceID="5290" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="5010" subVendorID="8086" />
+      <PCIInfo deviceID="24FB" vendorID="8086" subDeviceID="2110" subVendorID="8086" />
+      <PCIInfo deviceID="095B" vendorID="8086" subDeviceID="5310" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="5420" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="5490" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="5F10" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="5102" subVendorID="8086" />
+      <PCIInfo deviceID="3165" vendorID="8086" subDeviceID="4510" subVendorID="8086" />
+      <PCIInfo deviceID="3165" vendorID="8086" subDeviceID="4010" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="5000" subVendorID="8086" />
+      <PCIInfo deviceID="095B" vendorID="8086" subDeviceID="9310" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="9E10" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="5002" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="9510" subVendorID="8086" />
+      <PCIInfo deviceID="3165" vendorID="8086" subDeviceID="4410" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="5590" subVendorID="8086" />
+      <PCIInfo deviceID="24FB" vendorID="8086" subDeviceID="2010" subVendorID="8086" />
+      <PCIInfo deviceID="095B" vendorID="8086" subDeviceID="5302" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="5012" subVendorID="8086" />
+      <PCIInfo deviceID="24FB" vendorID="8086" subDeviceID="2150" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="5020" subVendorID="8086" />
+      <PCIInfo deviceID="3166" vendorID="8086" subDeviceID="4212" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="9012" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="9000" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="5110" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="5400" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="9110" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="502A" subVendorID="8086" />
+      <PCIInfo deviceID="095B" vendorID="8086" subDeviceID="9200" subVendorID="8086" />
+      <PCIInfo deviceID="095B" vendorID="8086" subDeviceID="5210" subVendorID="8086" />
+      <PCIInfo deviceID="095B" vendorID="8086" subDeviceID="5202" subVendorID="8086" />
+      <PCIInfo deviceID="095B" vendorID="8086" subDeviceID="5200" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="500A" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="5412" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="9010" subVendorID="8086" />
+      <PCIInfo deviceID="095A" vendorID="8086" subDeviceID="1010" subVendorID="8086" />
+      <PCIInfo deviceID="3165" vendorID="8086" subDeviceID="8110" subVendorID="8086" />
+      <PCIInfo deviceID="3165" vendorID="8086" subDeviceID="8010" subVendorID="8086" />
+    </Device>
+    <Device componentID="103305" guid="c49ec78a-7aa2-4713-b638-6db378851140" infType="base" componentType="DRVR" version="22.40.0.7">
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="0034" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="02A0" subVendorID="8086" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="0064" subVendorID="8086" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="2723" vendorID="8086" subDeviceID="0084" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="1651" subVendorID="1A56" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="40A4" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="0210" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="1652" subVendorID="1A56" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="0074" subVendorID="8086" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="00A0" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="0234" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="1652" subVendorID="1A56" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="001C" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="4034" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="40A4" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="02A0" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="0238" subVendorID="8086" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="00A4" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="0070" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="0270" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="4234" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="023C" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="003C" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="0230" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="0230" subVendorID="8086" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="0060" subVendorID="8086" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="02A4" subVendorID="8086" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="02A4" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="0070" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="0238" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="0030" subVendorID="8086" />
+      <PCIInfo deviceID="2723" vendorID="8086" subDeviceID="4080" subVendorID="8086" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="0034" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="0238" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="0260" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="02A4" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="007C" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="A014" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="0034" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="4034" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="2074" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="1651" subVendorID="1A56" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="1551" subVendorID="1A56" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="2074" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="0030" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="2034" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="2034" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="0064" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="4234" subVendorID="8086" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="2030" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="023C" subVendorID="8086" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="4234" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="023C" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="0038" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="40A4" subVendorID="8086" />
+      <PCIInfo deviceID="2725" vendorID="8086" subDeviceID="1674" subVendorID="1A56" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="2034" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="1552" subVendorID="1A56" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="0230" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="0264" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="02A4" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="1551" subVendorID="1A56" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="02A0" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="4034" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="0078" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="4034" subVendorID="8086" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="40A4" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="003C" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="003C" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="0234" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="0238" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="1552" subVendorID="1A56" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="00A0" subVendorID="8086" />
+      <PCIInfo deviceID="2723" vendorID="8086" subDeviceID="2080" subVendorID="8086" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="40A4" subVendorID="8086" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="40A4" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="0034" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="02A0" subVendorID="8086" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="4234" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="007C" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="023C" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="0234" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="2074" subVendorID="8086" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="0238" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="00A4" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="6074" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="1651" subVendorID="1A56" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="0038" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="0270" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="2030" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="6074" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="02A4" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="0238" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="0070" subVendorID="8086" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="0038" subVendorID="8086" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="0038" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="2034" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="2030" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="0078" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="1552" subVendorID="1A56" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="02A0" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="0264" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="0078" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="00A4" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="401C" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="00A0" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="1552" subVendorID="1A56" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="4234" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="2030" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="2030" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="0274" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="0060" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="0260" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="0274" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="1551" subVendorID="1A56" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="023C" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="0064" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="8014" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="8010" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="1552" subVendorID="1A56" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="0038" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="2030" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="0064" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="0030" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="1551" subVendorID="1A56" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="003C" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="2034" subVendorID="8086" />
+      <PCIInfo deviceID="2725" vendorID="8086" subDeviceID="6020" subVendorID="8086" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="0230" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="0030" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="4034" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="0038" subVendorID="8086" />
+      <PCIInfo deviceID="2723" vendorID="8086" subDeviceID="1653" subVendorID="1A56" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="1551" subVendorID="1A56" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="0060" subVendorID="8086" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="0030" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="0264" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="02A0" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="2030" subVendorID="8086" />
+      <PCIInfo deviceID="2725" vendorID="8086" subDeviceID="2020" subVendorID="8086" />
+      <PCIInfo deviceID="2725" vendorID="8086" subDeviceID="E020" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="2034" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="0064" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="0030" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="1550" subVendorID="1A56" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="0230" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="0074" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="1552" subVendorID="1A56" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="02A0" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="0264" subVendorID="8086" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="2030" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="0260" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="0064" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="0030" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="0030" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="023C" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="2034" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="0030" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="007C" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="2030" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="0264" subVendorID="8086" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="4034" subVendorID="8086" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="2034" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="0064" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="0038" subVendorID="8086" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="0260" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="0230" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="0230" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="0038" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="00A0" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="2034" subVendorID="8086" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="4034" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="0064" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="00A0" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="0264" subVendorID="8086" />
+      <PCIInfo deviceID="2723" vendorID="8086" subDeviceID="008C" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="0260" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="0034" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="4234" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="0034" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="0030" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="4234" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="0234" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="00A4" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="02A0" subVendorID="8086" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="0034" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="1551" subVendorID="1A56" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="0238" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="E010" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="0230" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="00A4" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="02A4" subVendorID="8086" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="0230" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="6014" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="023C" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="6074" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="1652" subVendorID="1A56" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <PCIInfo deviceID="2725" vendorID="8086" subDeviceID="0020" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="0074" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="023C" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="00A4" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="40A4" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="6010" subVendorID="8086" />
+      <PCIInfo deviceID="2723" vendorID="8086" subDeviceID="4088" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="E014" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="0260" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="0238" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="0078" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="4034" subVendorID="8086" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="0234" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="0070" subVendorID="8086" />
+      <PCIInfo deviceID="2725" vendorID="8086" subDeviceID="1673" subVendorID="1A56" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="0260" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="0270" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="0230" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="0060" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="1552" subVendorID="1A56" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="0070" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="2074" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="0060" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="0034" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="0038" subVendorID="8086" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="003C" subVendorID="8086" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="0238" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="4234" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="1551" subVendorID="1A56" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="0034" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="1551" subVendorID="1A56" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="0264" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="0074" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="0260" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="4234" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="007C" subVendorID="8086" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="0060" subVendorID="8086" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="00A4" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="00A0" subVendorID="8086" />
+      <PCIInfo deviceID="2725" vendorID="8086" subDeviceID="0024" subVendorID="8086" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="02A0" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="1551" subVendorID="1A56" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="0018" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="0238" subVendorID="8086" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="0260" subVendorID="8086" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="023C" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="00A0" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="0230" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="40A4" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="0014" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="4034" subVendorID="8086" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="1551" subVendorID="1A56" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="0034" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="0234" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="1551" subVendorID="1A56" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="0030" subVendorID="8086" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="0060" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="4234" subVendorID="8086" />
+      <PCIInfo deviceID="2725" vendorID="8086" subDeviceID="E024" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="1552" subVendorID="1A56" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="2034" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="02A4" subVendorID="8086" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="00A0" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="02A4" subVendorID="8086" />
+      <PCIInfo deviceID="2725" vendorID="8086" subDeviceID="6024" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="00A4" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="0064" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="007C" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="0034" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="02A0" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="4010" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="0060" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="1652" subVendorID="1A56" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="1651" subVendorID="1A56" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="40A4" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="00A4" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="4234" subVendorID="8086" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="02A0" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="40A4" subVendorID="8086" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="023C" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="0274" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="0064" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="0270" subVendorID="8086" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="003C" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="003C" subVendorID="8086" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="1651" subVendorID="1A56" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="00A4" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="0264" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="0060" subVendorID="8086" />
+      <PCIInfo deviceID="2723" vendorID="8086" subDeviceID="0080" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="0038" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="0074" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="6074" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="1552" subVendorID="1A56" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="0230" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="003C" subVendorID="8086" />
+      <PCIInfo deviceID="2723" vendorID="8086" subDeviceID="0088" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="40A4" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="00A0" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="0070" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="0030" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="00A0" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="0238" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="1651" subVendorID="1A56" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="0260" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="4034" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="023C" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="0234" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="2034" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="1652" subVendorID="1A56" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="02A4" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="00A0" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="007C" subVendorID="8086" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="0234" subVendorID="8086" />
+      <PCIInfo deviceID="2723" vendorID="8086" subDeviceID="1654" subVendorID="1A56" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="0264" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="0060" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="2030" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="2074" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="023C" subVendorID="8086" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="0264" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="0034" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="40A4" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="02A4" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="02A0" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="0214" subVendorID="8086" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="1551" subVendorID="1A56" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="1552" subVendorID="1A56" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="0234" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="003C" subVendorID="8086" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="0260" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="0234" subVendorID="8086" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="1552" subVendorID="1A56" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="0270" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="003C" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="0000" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="2034" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="0274" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="00A0" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="0274" subVendorID="8086" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="0064" subVendorID="8086" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="4034" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="0260" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="2074" subVendorID="8086" />
+      <PCIInfo deviceID="2725" vendorID="8086" subDeviceID="4020" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="003C" subVendorID="8086" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="00A4" subVendorID="8086" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="0038" subVendorID="8086" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="2030" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="1552" subVendorID="1A56" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="1652" subVendorID="1A56" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="2030" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="00A4" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="6074" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="4018" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="0064" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="0078" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="0234" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="0078" subVendorID="8086" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="0264" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="0060" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="0264" subVendorID="8086" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="02A4" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="0270" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="0074" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="0274" subVendorID="8086" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="0238" subVendorID="8086" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="0038" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="6074" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="4234" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="02A4" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="003C" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="0010" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="4034" subVendorID="8086" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="0234" subVendorID="8086" />
+    </Device>
+    <Device componentID="103305" guid="fb6efad7-ec8c-4007-8c8c-1058e60c2364" infType="base" componentType="DRVR" version="20.70.21.2">
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="0910" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="1130" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="3E01" subVendorID="19E5" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="10B0" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="0850" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="8130" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="9110" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="1010" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="1012" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="0050" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="0012" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="1150" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="8050" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="1432" subVendorID="1A56" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="1012" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="1130" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="0150" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="1431" subVendorID="1A56" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="9150" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="1132" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="9130" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="9010" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="1014" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="1010" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="8110" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="0250" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="0950" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="D050" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="0930" subVendorID="8086" />
+      <PCIInfo deviceID="24F5" vendorID="8086" subDeviceID="0010" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="0810" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="0950" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="0132" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="0110" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="0130" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="9074" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="9010" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="0850" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="0050" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="9110" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="0130" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="8010" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="3E02" subVendorID="19E5" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="C050" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="0910" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="8150" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="0110" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="1050" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="8130" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="9132" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="0010" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="C010" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="D010" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="0014" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="B0B0" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="0004" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="9050" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="1110" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="1110" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="8010" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="8110" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="0810" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="0150" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="0012" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="8050" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="0044" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="C110" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="0930" subVendorID="8086" />
+      <PCIInfo deviceID="24FD" vendorID="8086" subDeviceID="0010" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="01F0" subVendorID="8086" />
+      <PCIInfo deviceID="24F3" vendorID="8086" subDeviceID="8132" subVendorID="8086" />
+    </Device>
+  </SupportedDCHDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09C1">
+        <Display lang="en"><![CDATA[5511]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="W21P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 11]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10TM" osVendor="Microsoft" osArch="x64" majorVersion="0" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows Teams Rooms]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WTCLD" osVendor="Microsoft" osArch="x64" majorVersion="0" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10S 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOT01" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W21S4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 11]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WEL16" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W21H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 11]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=42VMM">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="2">
+    <Display lang="en"><![CDATA[Urgent]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">74b4eb24d1166e44674a7c53506a3240</Hash>
+    <Hash algorithm="SHA256">23ab8ed7d43d17a3449b00d2ebf87d89b6758ba7c3c25fd66b216ebfc2ea7ff3</Hash>
+    <Hash algorithm="SHA1">9fdd534ac17008b75ea5179d927f7f0ee62de40f</Hash>
+  </Cryptography>
+  <AppliesTo>
+    <DeviceInformation>Driver</DeviceInformation>
+  </AppliesTo>
+  <DeviceGroup>
+    <OperatingSystem osCode="Windows10" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0" buildNumber="16299">
+      <Display lang="en"><![CDATA[Windows 10 x64-Bit]]></Display>
+    </OperatingSystem>
+    <Device>8f78f043-0824-4883-809a-93561d06af0b</Device>
+    <Device>c49ec78a-7aa2-4713-b638-6db378851140</Device>
+    <Device>fb6efad7-ec8c-4007-8c8c-1058e60c2364</Device>
+  </DeviceGroup>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="6C3WC" releaseDate="October 12, 2021" vendorVersion="2117.15.0.2272" dellVersion="A11" packageType="LWXP" path="FOLDER07280306M/3/Intel-Management-Engine-Components-Installer_6C3WC_WIN_2117.15.0.2272_A11_02.EXE" packageID="6C3WC" dateTime="2021-04-22T20:46:41+05:30" size="338674352" identifier="2d17b727-da5a-4f94-9299-b3e036a6bd66" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Intel Management Engine Components Installer]]></Display>
+  </Name>
+  <ComponentType value="DRVR">
+    <Display lang="en"><![CDATA[Driver]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the driver for the Intel Management Engine Components Installer. This driver installs Intel Management Engine Interface, Serial Over LAN driver, Local Manageability Service, Intel Converged Security and Manageability Engine (CSME), Windows Management Instrumentation (WMI) provider, Intel Management  Security Status application, and Intel Capability Licensing Service Client. This update also addresses the Intel Technical Advisory INTEL-TA-00459.]]></Display>
+  </Description>
+  <Category value="CS">
+    <Display lang="en"><![CDATA[Chipset]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="100950" embedded="false">
+      <PCIInfo deviceID="0000" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="02E0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="02E0" vendorID="8086" subDeviceID="0962" subVendorID="1028" />
+      <PCIInfo deviceID="02E0" vendorID="8086" subDeviceID="09BA" subVendorID="1028" />
+      <PCIInfo deviceID="02E3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="02FC" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="06E0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="06E0" vendorID="8086" subDeviceID="09F6" subVendorID="1028" />
+      <PCIInfo deviceID="06E3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="0A9A" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="0F18" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="18D3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="1A9A" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="1BE0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="1BE3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="2298" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="271B" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="271C" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="2720" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="2723" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="30DC" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="319A" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="34E0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="34E3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="38E0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="3DE0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="3DE3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="3DF0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="40C0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="43E0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="43E3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="43E4" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="4B70" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="4DE0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="51E0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="51E3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="51E4" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="5A9A" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="7A68" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="7A6C" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="7AE8" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="7AEB" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="7AEC" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="7E70" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="7E73" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="7E74" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="98E0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="98E5" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9CBA" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9CBD" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9D3A" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9D3D" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9DE0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9DE3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A0E0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A0E3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A0E4" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A13A" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A13D" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A1BA" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A1BD" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A23A" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A23D" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A2BA" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A2BD" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A360" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A363" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A3BA" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A3BD" vendorID="8086" subDeviceID="" subVendorID="" />
+      <Display><![CDATA[Intel Management Engine Components Installer]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09C1">
+        <Display lang="en"><![CDATA[5511]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="W21P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 11]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WEL16" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W21H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 11]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="PE1064" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOT01" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10TM" osVendor="Microsoft" osArch="x64" majorVersion="0" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows Teams Rooms]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=6C3WC">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="2">
+    <Display lang="en"><![CDATA[Urgent]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">02fa0dbf6513b51d7de7ebe844e7053b</Hash>
+    <Hash algorithm="SHA256">87325202f9138de11bbcaa04b15d7f42581eafc02c620ca149c9afe74bd6ad43</Hash>
+    <Hash algorithm="SHA1">ba4488e86b4ddcdb151ede89c956ae1f497ee8c1</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="7MJJY" releaseDate="February 13, 2020" vendorVersion="21.70.0.3" dellVersion="A05" packageType="LWXP" path="FOLDER06053504M/6/Intel-AX200-AX201-9560-9260-3165-Bluetooth-UWD-Driver_7MJJY_WIN_21.70.0.3_A05_05.EXE" packageID="7MJJY" dateTime="2019-11-22T14:58:19+05:30" size="50650024" identifier="3686531a-98b9-4c95-afe1-30ba7b10df31" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Intel AX200/AX201/9560/9260/3165 Bluetooth UWD Driver]]></Display>
+  </Name>
+  <ComponentType value="DRVR">
+    <Display lang="en"><![CDATA[Driver]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the driver for the Intel AX200, AX201, 9560, 9260, and 3165 Bluetooth cards. Bluetooth driver is the software that helps your operating system to communicate with Bluetooth devices.]]></Display>
+  </Description>
+  <Category value="NI">
+    <Display lang="en"><![CDATA[Network]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="103306" embedded="false">
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0025</PnPProductID>
+      </PnPInfo>
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0026</PnPProductID>
+      </PnPInfo>
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0029</PnPProductID>
+      </PnPInfo>
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0A2A</PnPProductID>
+      </PnPInfo>
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0AAA</PnPProductID>
+      </PnPInfo>
+      <Display><![CDATA[Intel(R) Wireless-AC 9560 Bluetooth]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09C1">
+        <Display lang="en"><![CDATA[5511]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WEL16" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WTCLD" osVendor="Microsoft" osArch="x64" majorVersion="0" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10S 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOT01" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=7MJJY">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="2">
+    <Display lang="en"><![CDATA[Urgent]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">406f8d36f688eb6feb7f71229c18d846</Hash>
+    <Hash algorithm="SHA256">ce1cfae42be7e9ce7d4644e0fb78582621292ea24a9020914c515022f3854398</Hash>
+    <Hash algorithm="SHA1">cf3bbb90129675c11d7821120443f05e2aefed9b</Hash>
+  </Cryptography>
+</SoftwareComponent>
+</Manifest>
