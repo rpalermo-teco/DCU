@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Manifest baseLocation="downloads.dell.com" dateTime="2022-09-19T03:42:43.3172277Z" releaseId="e75410a3-fd0e-4076-a7ff-41516244ce83" name="Latitude 5510" description="" >
+<InventoryComponent inventoryCollectorType="COMPREHENSIVE" schemaVersion="3.0" releaseID="T1C7Y" releaseDate="September 06, 2022" vendorVersion="10.7.7.0" dellVersion="A00" osCode="WIN" path="FOLDER08935581M/1/InvColPC_10.7.7.0.exe" size="23991152" xmlns="openmanage/cm/dm">
+    <Cryptography>
+      <Hash algorithm="MD5">7c2c7d6a35113cef663ecd16f4b75331</Hash>
+      <Hash algorithm="SHA256">cc2a4549e7b5d96d93d81cda8c1de8162dc7b51e6c9266f2f27d864e59460783</Hash>
+      <Hash algorithm="SHA1">d7289dad6acbcf80e7419cfe1bfe3ce62c037514</Hash>
+    </Cryptography>
+  </InventoryComponent>
+<InventoryComponent inventoryCollectorType="COMPACT" schemaVersion="3.0" releaseID="W161V" releaseDate="September 06, 2022" vendorVersion="10.7.7.0" dellVersion="A00" osCode="WIN" path="FOLDER08935520M/1/InvColPC_10.7.7.0.exe" size="11101704" xmlns="openmanage/cm/dm">
+    <Cryptography>
+      <Hash algorithm="MD5">242eebe4844ced5f081ffa3eaa1323d6</Hash>
+      <Hash algorithm="SHA256">047fabe57ea926929791c5c4d46d15f91973888ac5431251bfd8da7a5dbfa09a</Hash>
+      <Hash algorithm="SHA1">bfead3c2387641873266bf0ce9898f56050f3ece</Hash>
+    </Cryptography>
+  </InventoryComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="39HKF" releaseDate="September 13, 2022" vendorVersion="22.160.0.3" dellVersion="A25" packageType="LW64" path="FOLDER08901274M/2/Intel-AX211-AX210-AX200-AX201-9560-9260-9462-8265-3165_39HKF_WIN64_22.160.0.3_A25_01.EXE" packageID="39HKF" dateTime="2022-06-30T07:56:53+05:30" size="34942624" identifier="6830b409-107c-48c5-8ddc-6ac65463bd71" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Intel AX211/AX210/AX200/AX201/9560/9260/9462/8265/3165 Bluetooth UWD Driver]]></Display>
+  </Name>
+  <ComponentType value="DRVR">
+    <Display lang="en"><![CDATA[Driver]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the driver for the Intel AX211, AX210, AX201, AX200, 9560, 9462, 9260, 8265, and 3165 Bluetooth cards. Bluetooth driver is the software that helps your operating system to communicate with Bluetooth devices.]]></Display>
+  </Description>
+  <Category value="NI">
+    <Display lang="en"><![CDATA[Network]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="103306" embedded="false">
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0026</PnPProductID>
+      </PnPInfo>
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0029</PnPProductID>
+      </PnPInfo>
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0032</PnPProductID>
+      </PnPInfo>
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0033</PnPProductID>
+      </PnPInfo>
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0A2A</PnPProductID>
+      </PnPInfo>
+      <PnPInfo>
+        <PNPID>8087</PNPID>
+        <PnPProductID>0AAA</PnPProductID>
+      </PnPInfo>
+      <Display><![CDATA[Intel(R) Wireless-AC 9462 Bluetooth]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09A1">
+        <Display lang="en"><![CDATA[5510]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="WEL16" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOT01" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W21P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 11]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WTCLD" osVendor="Microsoft" osArch="x64" majorVersion="0" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10S 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W21H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 11]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W21S4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 11 S-MODE]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=39HKF">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="2">
+    <Display lang="en"><![CDATA[Urgent]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">ed7b4b4a3b72a8aa2e21f6c17ea39fd0</Hash>
+    <Hash algorithm="SHA256">ff279c9525cc7a77603d1b3b34c0a1ed520578596ab01e4f029383f83fba5050</Hash>
+    <Hash algorithm="SHA1">73afda46b4ad1196c5c2a40c0099f1b786876511</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="KW2XT" releaseDate="February 09, 2022" vendorVersion="17.11.0.1000" dellVersion="A05" packageType="LW64" path="FOLDER07831505M/5/Intel-Rapid-Storage-Technology-Driver_KW2XT_WIN64_17.11.0.1000_A05_01.EXE" packageID="KW2XT" dateTime="2021-10-18T08:07:48+05:30" size="23179056" identifier="ca79d6de-dcea-4447-94b2-cfdce8787119" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Intel Rapid Storage Technology Driver]]></Display>
+  </Name>
+  <ComponentType value="DRVR">
+    <Display lang="en"><![CDATA[Driver]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the Intel Rapid Storage Technology driver. Intel Rapid Storage Technology helps configure RAID 0, 1, 5, and 10 levels and enhances the performance and reliability of Windows-based systems with storage devices.]]></Display>
+  </Description>
+  <Category value="SA">
+    <Display lang="en"><![CDATA[Serial ATA]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="100638" embedded="false">
+      <Display><![CDATA[Intel Rapid Storage Technology]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09A1">
+        <Display lang="en"><![CDATA[5510]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="W21H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 11]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10TM" osVendor="Microsoft" osArch="x64" majorVersion="0" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows Teams Rooms]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W21S4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 11 S-MODE]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W21P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 11]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WTCLD" osVendor="Microsoft" osArch="x64" majorVersion="0" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10S 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOTL4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-bit LTSC2021]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=KW2XT">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="2">
+    <Display lang="en"><![CDATA[Urgent]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">6829fad0fe50c149fe9e9cefade15d64</Hash>
+    <Hash algorithm="SHA256">b3225348266910dec6b1592b5c96eeca3a4c223575a1748a1492024effbf1c08</Hash>
+    <Hash algorithm="SHA1">14c342b7e7a589bf847dfe831e1bb38a4e4f06ad</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="0F6FC" releaseDate="August 11, 2022" vendorVersion="1.15.0" dellVersion="1.15.0" packageType="LWXP" path="FOLDER08760480M/1/Latitude_5X10_Precision_3550_1.15.0.exe" packageID="0F6FC" dateTime="2022-06-28T12:38:19+05:30" size="42885856" identifier="54e28eb3-7e37-4a42-8bc9-a7e3befd8caf" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Dell Precision 3550 and Latitude 5410/5510 System BIOS]]></Display>
+  </Name>
+  <ComponentType value="BIOS">
+    <Display lang="en"><![CDATA[BIOS]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the Dell system BIOS update. BIOS is a firmware package that is embedded on a small memory chip on the system board. It controls the keyboard, monitor, disk drives, and other devices. This update addresses Common Vulnerabilities and Exposures (CVE). Common Vulnerabilities and Exposures (CVE) is a list of security vulnerabilities and exposures that are publicly disclosed.]]></Display>
+  </Description>
+  <Category value="BI">
+    <Display lang="en"><![CDATA[BIOS]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="159" embedded="false">
+      <Display><![CDATA[Latitude 5410;Latitude 5510;Precision 3550]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09A1">
+        <Display lang="en"><![CDATA[5510]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=0F6FC">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="2">
+    <Display lang="en"><![CDATA[Urgent]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">06fe7d35ecbf4ccb8305678117f9178e</Hash>
+    <Hash algorithm="SHA256">1bfdc336cdee71ef2a57baa2538213298fae190c7a7c08493e312afd707e37b2</Hash>
+    <Hash algorithm="SHA1">7e3bddb4a37c0b457224e76b3991b93c2f20a92d</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="GXR9F" releaseDate="February 08, 2022" vendorVersion="27.20.100.8681" dellVersion="A08" packageType="LWXP" path="FOLDER06591622M/1/Intel-UHD-Graphics-Driver_GXR9F_WIN_27.20.100.8681_A08.EXE" packageID="GXR9F" dateTime="2020-08-11T18:44:46+05:30" size="372326416" identifier="ca45762d-680f-401f-898a-94f70b6e3e15" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Intel UHD Graphics Driver]]></Display>
+  </Name>
+  <ComponentType value="DRVR">
+    <Display lang="en"><![CDATA[Driver]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the Intel UHD graphics driver for 10th generation Intel processors. A graphics or video driver is the software that enables communication between the graphics card and the operating system, games, and applications.]]></Display>
+  </Description>
+  <Category value="VI">
+    <Display lang="en"><![CDATA[Video]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="103292" embedded="false">
+      <PCIInfo deviceID="9B41" vendorID="8086" subDeviceID="09BB" subVendorID="1028" />
+      <PCIInfo deviceID="9BCA" vendorID="8086" subDeviceID="09BB" subVendorID="1028" />
+      <Display><![CDATA[Intel(R) UHD Graphics]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09A1">
+        <Display lang="en"><![CDATA[5510]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=GXR9F">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="1">
+    <Display lang="en"><![CDATA[Recommended]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">4ba2408fb40657526235eeff0fb9f200</Hash>
+    <Hash algorithm="SHA256">ff24f262af4601abd39a977b2b1f0e1a9c1359f832242d2df21e509ffa155889</Hash>
+    <Hash algorithm="SHA1">d5a29057825e29efd35dd8a1160f3bbe65dddd2c</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="TWP3V" releaseDate="September 13, 2022" vendorVersion="22.160.0.3" dellVersion="A27" packageType="LWXP" path="FOLDER08806485M/5/Intel-AX2xx-9560-9260-9462-8265-3165-Wi-Fi-UWD-Driver_TWP3V_WIN_22.160.0.3_A27_01.EXE" packageID="TWP3V" dateTime="2022-06-29T09:10:44+05:30" size="64804424" identifier="0b4b9c88-00cd-4bc5-b5d4-b1327fe11b13" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Intel AX2xx/9560/9260/9462/8265/3165 Wi-Fi UWD Driver]]></Display>
+  </Name>
+  <ComponentType value="DRVR">
+    <Display lang="en"><![CDATA[Driver]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the driver for the Intel AX211, AX210, AX201, AX200, 9560, 9260, 9462, 8265, and 3165 wireless cards. Wireless drivers help your operating system to communicate with wireless devices such as wireless cards and network interface controllers.]]></Display>
+  </Description>
+  <Category value="NI">
+    <Display lang="en"><![CDATA[Network]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="103305" embedded="false">
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="2723" vendorID="8086" subDeviceID="4080" subVendorID="8086" />
+      <PCIInfo deviceID="2725" vendorID="8086" subDeviceID="4020" subVendorID="8086" />
+      <PCIInfo deviceID="3165" vendorID="8086" subDeviceID="4410" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="4034" subVendorID="8086" />
+      <PCIInfo deviceID="4DF0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="51F0" vendorID="8086" subDeviceID="4090" subVendorID="8086" />
+      <PCIInfo deviceID="7AF0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="7AF0" vendorID="8086" subDeviceID="4090" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="A370" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="FFFF" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="FFFF" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <Display><![CDATA[Intel(R) Wireless-AX 201 Wireless LAN]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09A1">
+        <Display lang="en"><![CDATA[5510]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W21P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 11]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WEL16" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W21S4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 11 S-MODE]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOT01" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W21H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 11]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WTCLD" osVendor="Microsoft" osArch="x64" majorVersion="0" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10S 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=TWP3V">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="2">
+    <Display lang="en"><![CDATA[Urgent]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">124fbabc790f77cf0c94ee047155aac2</Hash>
+    <Hash algorithm="SHA256">42fe37fbfd6d980d06a58836bddfcb1fb6399312c830e445ad5f2b63187256e0</Hash>
+    <Hash algorithm="SHA1">961a8c1ad93748874b1cbadd1d52324113b49af4</Hash>
+  </Cryptography>
+</SoftwareComponent>
+</Manifest>
